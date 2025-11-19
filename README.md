@@ -10,13 +10,13 @@ SPASE resource descriptions with the NagoyaU naming authority.
 If you are a consumer of the metadata simple clone the repostory
 
 ````
-git clone -b master --single-branch --depth=1 https://github.com/hpde/SMWG
+git clone -b master --single-branch --depth=1 https://github.com/hpde/NagoyaU
 ````
 
 If you are a contributor (someone authorized to make changes directly to the repository), clone the repository with:
 
 ````
-git clone git@github.com:hpde/SMWG.git
+git clone git@github.com:hpde/NagoyaU.git
 ````
 
 and use your favorite XML editor and tools to make the changes your want.
@@ -33,12 +33,12 @@ You can jump to the last step by clicking "Export" on the list of steps on the l
 
 The easiest way to load a description into the SPASE Metadata Editor is to find the 
 landing page for a resource description by replacing the "spase://" in the 
-SPASE Resource ID with "https://hpde.io/". For example, change
+SPASE Resource ID with "https://spase-metadata.org". For example, change
 
     spase://ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
 
 to
-    https://hpde.io/ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
+    https://spase-metadata.org/ESA/NumericalData/PROBA2/LYRA/Flarelist/PT24H
 
 Navigate to that URL with a browser, the click "Edit" to load the description into the SPASE Metadata editor.
 
