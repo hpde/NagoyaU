@@ -1,3 +1,5 @@
+[![SPASE Monthly Validation](https://github.com/hpde/NASA/actions/workflows/validate-schedule.yml/badge.svg)](https://github.com/hpde/NASA/actions/workflows/validate-schedule.yml)
+[![SPASE Push Validation](https://github.com/hpde/NASA/actions/workflows/validate-push.yml/badge.svg)](https://github.com/hpde/NASA/actions/workflows/validate-push.yml)
 
 # spase-NagoyaU
 
